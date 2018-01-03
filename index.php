@@ -15,7 +15,6 @@ function h($s) {
 }
 ?>
 
-
 <!DOCTYPR html>
 <html lang="ja">
 <head>
